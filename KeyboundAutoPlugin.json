@@ -1,0 +1,23 @@
+{
+    "Author": "Demis Berges",
+    "Name": "Keybound Brawler Auto-Typer",
+    "Punchline": "automate the Keybound Brawler mini-game in FFXIV",
+    "Description": "An advanced Dalamud plugin that detects active words via UI node signatures and simulates human-like typing with variable speeds, jitter, and automatic enter validation.",
+    "InternalName": "KeyboundAutoPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "brawler",
+      "plugin",
+      "automation",
+      "minigame"
+    ],
+    "DalamudApiLevel": 11,
+    "RepoUrl": "https://github.com/mdr313908/keyboardbrawler",
+    "AssemblyVersion": "1.0.0.0",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1782734100,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/mdr313908/keyboardbrawler/releases/download/oui/Release.rar"
+  }
+]
